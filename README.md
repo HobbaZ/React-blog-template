@@ -39,7 +39,7 @@ Starting a React basic website website from scratch
 Create a template for basic setup of a React SPA.
 
 ## Screenshots
-
+![Home Screen](./assets/images/home-page.png)
 
 ## Installation
 1. Clone the repo to your computer by clicking the green code button and copying the SSH version.
@@ -50,14 +50,14 @@ Create a template for basic setup of a React SPA.
 
 4. Open a new Terminal in VS Code and type ```npm install``` to install the repo dependencies.
 
-5. Finally, type ```npm run develop``` into the terminal and it will start the dev server at localhost:3000.
+5. Finally, type ```npm start``` into the terminal and it will start the dev server at localhost:3000.
 
 ## Features
 
 ## Technology
-- Express
 - React
 - Bootstrap
+- Fontawesome
 
 ## Contributors
 [Zachary Hobba](https://github.com/HobbaZ)
@@ -65,16 +65,14 @@ Create a template for basic setup of a React SPA.
 You can also contribute by opening a pull request or submitting an issue.
 
 ## Acknowledgements
-[Custome mongoDB error messages from Stack overflow](https://stackoverflow.com/questions/61324293/mongoose-e11000-duplicate-key-change-the-type-of-return-message-in-case-of-erro)
 
-[MongoDB error handling middleware](https://mongoosejs.com/docs/middleware.html#error-handling-middleware)
+Photo by <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/s/photos/website?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-Background photo is by [Geran de Klerk](https://unsplash.com/@gerandeklerk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) [forest](https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-Important: Code to kill port processes if something running on port 3000 error ```npx kill-port 3000```, type into your VS Code terminal and hit enter, will kill port 3000 and let you run the app.
+Important: If you get a something is running on port 3000 error, , type ```npx kill-port 3000``` into your VS Code terminal and hit enter, will kill port 3000 and let you run the app.
 
 ## Testing
-No tests yet
+No tests for this project
 
 ## License
 
@@ -92,7 +90,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Find me on Github at [HobbaZ](https://github.com/HobbaZ)
 
 If this has helped you with your web development, consider buying me a Coffee (only costs $3) at [zachobba](    https://buymeacoffee.com/zachobbaS)
-
-
 
 Email me at [zachobba@gmail.com](zachobba@gmail.com)
