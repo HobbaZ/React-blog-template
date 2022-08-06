@@ -1,14 +1,14 @@
-# React-blog-template
+# React-3-page-website-template
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 ![License](https://img.shields.io/badge/Made%20with-React-darkgreen.svg)
-[![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/React-blog-template)](https://github.com/HobbaZ/React-blog-template/commits)
-[![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/React-blog-template)](https://github.com/HobbaZ/React-blog-template/branches)
+[![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/react-3-page-website-template)](https://github.com/HobbaZ/react-3-page-website-template/commits)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/react-3-page-website-template)](https://github.com/HobbaZ/react-3-page-website-template/branches)
 [![GitHub followers](https://img.shields.io/github/followers/HobbaZ.svg)]()
-![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/React-blog-template)
-[![GitHub issues](https://img.shields.io/github/issues/HobbaZ/React-blog-template)](https://img.shields.io/github/issues/HobbaZ/React-blog-template)
-![GitHub forks](https://img.shields.io/github/forks/HobbaZ/React-blog-template)
-![GitHub language count](https://img.shields.io/github/languages/count/HobbaZ/React-blog-template)
+![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/react-3-page-website-template)
+[![GitHub issues](https://img.shields.io/github/issues/HobbaZ/react-3-page-website-template)](https://img.shields.io/github/issues/HobbaZ/react-3-page-website-template)
+![GitHub forks](https://img.shields.io/github/forks/HobbaZ/react-3-page-website-template)
+![GitHub language count](https://img.shields.io/github/languages/count/HobbaZ/react-3-page-website-template)
 
 ## Description
 ### Project Aim ###
