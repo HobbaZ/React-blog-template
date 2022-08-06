@@ -1,0 +1,20 @@
+{
+  "name": "React-blog-template",
+  "version": "1.0.0",
+  "description": "[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)\r ![License](https://img.shields.io/badge/Made%20with-React-darkgreen.svg)\r [![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/React-blog-template)](https://github.com/HobbaZ/React-blog-template/commits)\r [![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/React-blog-template)](https://github.com/HobbaZ/React-blog-template/branches)\r [![GitHub followers](https://img.shields.io/github/followers/HobbaZ.svg)]()\r ![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/React-blog-template)\r [![GitHub issues](https://img.shields.io/github/issues/HobbaZ/React-blog-template)](https://img.shields.io/github/issues/HobbaZ/React-blog-template)\r ![GitHub forks](https://img.shields.io/github/forks/HobbaZ/React-blog-template)\r ![GitHub language count](https://img.shields.io/github/languages/count/HobbaZ/React-blog-template)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HobbaZ/react-3-page-website-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HobbaZ/react-3-page-website-template/issues"
+  },
+  "homepage": "https://github.com/HobbaZ/react-3-page-website-template#readme"
+}
