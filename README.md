@@ -20,7 +20,7 @@ Starting a React basic website website from scratch
 ### What I Learnt ###
 
 ## Deployment
-
+Website is deployed on Heroku [here](https://react-3-page-website-template.herokuapp.com/)
 
 ## Table of Contents
 - [Description](#description)
