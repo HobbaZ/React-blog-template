@@ -39,7 +39,7 @@ Starting a React basic website website from scratch
 Create a template for basic setup of a React SPA.
 
 ## Screenshots
-![Home Screen](./assets/images/home-page.png)
+![Home Screen](./client/src/images/home-page.png)
 
 ## Installation
 1. Clone the repo to your computer by clicking the green code button and copying the SSH version.
@@ -50,9 +50,10 @@ Create a template for basic setup of a React SPA.
 
 4. Open a new Terminal in VS Code and type ```npm install``` to install the repo dependencies.
 
-5. Finally, type ```npm start``` into the terminal and it will start the dev server at localhost:3000.
+5. Finally, type ```cd client && npm start``` into the terminal and it will start the dev server at localhost:3000.
 
 ## Features
+- 3 pages with navigation and footer setup
 
 ## Technology
 - React
