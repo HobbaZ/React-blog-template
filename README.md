@@ -52,6 +52,8 @@ Create a template for basic setup of a React SPA.
 
 5. Finally, type ```cd client && npm start``` into the terminal and it will start the dev server at localhost:3000.
 
+Note: To make a static React site work on Heroku you need to take all the files out of the folder name you specified in the react-create-app. E.g. if you did create-react-app client, React will create the app in a folder called client, take all the files out of the client folder so they are now all at root level and then delete the empty client folder.
+
 ## Features
 - 3 pages with navigation and footer setup
 
