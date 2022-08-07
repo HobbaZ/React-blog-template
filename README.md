@@ -12,15 +12,16 @@
 
 ## Description
 ### Project Aim ###
-To create a simple React blog template app.
+To create a simple static React website template app.
 
 ### What Problem Does It Solve ###
-Starting a React basic website website from scratch
+Starting a React basic static website from scratch
 
 ### What I Learnt ###
+Remembered to take all files from client folder so Heroku can find buildpack.
 
 ## Deployment
-
+View the deployed website on Heroku [here](https://react-3-page-website-template.herokuapp.com/)
 
 ## Table of Contents
 - [Description](#description)
@@ -36,13 +37,14 @@ Starting a React basic website website from scratch
 - [Questions](#questions)
 
 ## User Story
-Create a template for basic setup of a React SPA.
+I Want to create a template for basic setup of a static React SPA.
+So That I can develop static websites faster.
 
 ## Screenshots
 ![Home Screen](./client/src/images/home-page.png)
 
 ## Installation
-1. Clone the repo to your computer by clicking the green code button and copying the SSH version.
+1. Clone the repo to your computer by clicking the green code button and copying the SSH version or clicking the blue use template button.
 
 2. Open Gitbash in your desired folder and type ```git clone ``` then right click to paste the string and hit enter. The repo will then be cloned to your computer.
 
@@ -50,12 +52,13 @@ Create a template for basic setup of a React SPA.
 
 4. Open a new Terminal in VS Code and type ```npm install``` to install the repo dependencies.
 
-5. Finally, type ```cd client && npm start``` into the terminal and it will start the dev server at localhost:3000.
+5. Finally, type ```npm start``` into the terminal and it will start the dev server at localhost:3000.
 
 Note: To make a static React site work on Heroku you need to take all the files out of the folder name you specified in the react-create-app. E.g. if you did create-react-app client, React will create the app in a folder called client, take all the files out of the client folder so they are now all at root level and then delete the empty client folder.
 
 ## Features
 - 3 pages with navigation and footer setup
+- Fontawesome set up for icons
 
 ## Technology
 - React
